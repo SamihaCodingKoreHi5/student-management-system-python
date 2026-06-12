@@ -1,2 +1,26 @@
-# student-management-system-python
-A console-based Student Management System developed in Python featuring CRUD operations, JSON storage, and student performance management.
+# Student Management System
+
+A simple Python-based Student Management System.
+
+## Features
+
+- Add Student
+- View Students
+- Search Student
+- Update Student
+- Delete Student
+- Show Top Student
+- Student Count
+- JSON Data Storage
+
+## Technologies Used
+
+- Python
+- JSON
+- Functions
+- Lists
+- Dictionaries
+
+## Author
+
+Samiha Fatima
