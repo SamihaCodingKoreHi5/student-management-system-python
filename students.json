@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "102",
+        "name": "Samiha",
+        "department": "CSE",
+        "semester": "6th",
+        "email": "samiha55@gmail.com",
+        "cgpa": 3.99
+    },
+    {
+        "id": "101",
+        "name": "Harry Potter",
+        "department": "CSE",
+        "semester": "6",
+        "email": "harrypotter576@gmail.com",
+        "cgpa": 3.55
+    }
+]
